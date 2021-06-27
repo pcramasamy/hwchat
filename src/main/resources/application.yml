@@ -3,7 +3,7 @@ micronaut:
     name: hwchat
 datasources:
   default:
-    url: jdbc:mysql://localhost:3306/db
+    url: jdbc:mysql://localhost:3306/testdb
     driverClassName: com.mysql.cj.jdbc.Driver
     username: root
-    password: ''
+    password: 'welcome'
